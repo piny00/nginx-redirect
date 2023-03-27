@@ -1,0 +1,1 @@
+docker run -d --restart always --name nginx-redirect -p 80:80 nginx-redirect:v1.0
